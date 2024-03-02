@@ -1,0 +1,18 @@
+  # About me
+  I am a Software Engineer at Codespace. I major in HTML, CSS and basic Javascript. My career goal is to become a full stack developer and one day own my software engineering company. 
+  I am a dedicated, organised and methodical individual. I am eager to learn and develop new skills. I am reliable and dependable.
+  I often seek new responsiblilites within a wide range of employment areas.
+
+  # Skills
+  -Attention to detail
+  -Problem solving
+  -Time management
+  -Analytical thinker
+  
+  # Contact
+  **Email** : tmogwere09@gmail.com
+  **Mobile** : 0832578730
+  
+  
+  
+
