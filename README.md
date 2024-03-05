@@ -16,8 +16,8 @@
   - https://blackjackbytshireletso.netlify.app/
   
   # Contact
-  **Email** : tmogwere09@gmail.com
-  **Mobile** : +27832578730
+  - **Email** : tmogwere09@gmail.com
+  - **Mobile** : +27832578730
   
   
   
