@@ -11,9 +11,9 @@
   - Team Player
     
   # Projects 
-  https://codepen.io/Tshireletso-Mogwere/pen/poYPevG
-  https://tshirefruitmarketcart.netlify.app/
-  https://blackjackbytshireletso.netlify.app/
+  - https://codepen.io/Tshireletso-Mogwere/pen/poYPevG
+  - https://tshirefruitmarketcart.netlify.app/
+  - https://blackjackbytshireletso.netlify.app/
   
   # Contact
   **Email** : tmogwere09@gmail.com
