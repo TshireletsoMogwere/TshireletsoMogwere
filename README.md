@@ -4,14 +4,20 @@
   I often seek new responsiblilites within a wide range of employment areas.
 
   # Skills
-  -Attention to detail
-  -Problem solving
-  -Time management
-  -Analytical thinker
+  - Attention to detail
+  - Problem solving
+  - Time management
+  - Analytical thinker
+  - Team Player
+    
+  # Projects 
+  https://codepen.io/Tshireletso-Mogwere/pen/poYPevG
+  https://tshirefruitmarketcart.netlify.app/
+  https://blackjackbytshireletso.netlify.app/
   
   # Contact
   **Email** : tmogwere09@gmail.com
-  **Mobile** : 0832578730
+  **Mobile** : +27832578730
   
   
   
