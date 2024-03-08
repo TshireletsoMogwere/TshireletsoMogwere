@@ -4,6 +4,9 @@
   I often seek new responsiblilites within a wide range of employment areas.
 
   # Skills
+  - HTML
+  - CSS
+  - Tailwind CSS
   - Attention to detail
   - Problem solving
   - Time management
