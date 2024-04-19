@@ -7,10 +7,7 @@
   - HTML
   - CSS
   - Tailwind CSS
-  - Attention to detail
-  - Problem solving
-  - Time management
-  - Analytical thinker
+  - Debugging
   - Team Player
     
   # Projects 
