@@ -15,6 +15,9 @@
   - Tailwind CSS
   - Debugging
   - Team Player
+  - JavaScript
+  - React
+
     
   # Projects 
   - https://codepen.io/Tshireletso-Mogwere/pen/poYPevG
