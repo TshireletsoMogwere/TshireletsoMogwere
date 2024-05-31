@@ -3,6 +3,12 @@
   I am a dedicated, organised and methodical individual. I am eager to learn and develop new skills. I am reliable and dependable.
   I often seek new responsiblilites within a wide range of employment areas.
 
+  # Socials
+  Find out more about me on the following socials:
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   <li><a href="https://www.linkedin.com/in/tshireletso-mogwere-8aaba6246/"><i class="fa fa-linkedin-square"></i> LinkedIn</a></li>
+   <li><a href="https://wordpress.com/posts/tshire02.wordpress.com"><i class="fa fa-wordpress"></i> WordPress</a></li>
+   
   # Skills
   - HTML
   - CSS
@@ -14,8 +20,6 @@
   - https://codepen.io/Tshireletso-Mogwere/pen/poYPevG
   - https://tshirefruitmarketcart.netlify.app/
   - https://blackjackbytshireletso.netlify.app/
-     <li><a href="https://www.linkedin.com/in/tshireletso-mogwere-8aaba6246/"><i class="fa fa-linkedin-square"></i> LinkedIn</a></li>
-     <li><a href="https://wordpress.com/posts/tshire02.wordpress.com"><i class="fa fa-wordpress"></i> WordPress</a></li>
   
   # Contact
   - **Email** : tmogwere09@gmail.com
