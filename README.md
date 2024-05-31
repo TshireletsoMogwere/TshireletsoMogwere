@@ -14,6 +14,8 @@
   - https://codepen.io/Tshireletso-Mogwere/pen/poYPevG
   - https://tshirefruitmarketcart.netlify.app/
   - https://blackjackbytshireletso.netlify.app/
+     <li><a href="https://www.linkedin.com/in/tshireletso-mogwere-8aaba6246/"><i class="fa fa-linkedin-square"></i> LinkedIn</a></li>
+     <li><a href="https://wordpress.com/posts/tshire02.wordpress.com"><i class="fa fa-wordpress"></i> WordPress</a></li>
   
   # Contact
   - **Email** : tmogwere09@gmail.com
