@@ -1,5 +1,5 @@
  # 💫 About Me:
- I am a Software Engineer student at Codespace. <br>I major in HTML, CSS and basic JavaScript.<br> My career goal is to become a full stack developer and one day own my software engineering company.<br> I am a dedicated, organised and methodical individual. I am eager to learn and develop new skills. <br>I am reliable and dependable. I often seek new responsibilities within a wide range of employment areas.
+ I am a Software Engineer student at Codespace. I major in HTML, CSS and basic JavaScript. My career goal is to become a full stack developer and one day own my software engineering company. I am a dedicated, organised and methodical individual. I am eager to learn and develop new skills. I am reliable and dependable. I often seek new responsibilities within a wide range of employment areas.
 
 
 ## 🌐 Socials:
