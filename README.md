@@ -9,7 +9,7 @@ I specialize in frontend and backend development, with experience building proje
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tshireletso-mogwere-8aaba6246/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)]([YOUR_PORTFOLIO_URL_HERE](https://tmogwere.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://tmogwere.vercel.app/)
 
 ## Technologies & Tools
 
