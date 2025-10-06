@@ -12,11 +12,11 @@ I specialize in frontend and backend development, with experience contributing t
 
 ## Technologies & Tools
 
-**Frontend:** HTML5 • CSS3 • JavaScript • React • Redux • TailwindCSS • React Router
+**Frontend:** HTML5 • CSS3 • JavaScript • TypeScript • React • Redux • TailwindCSS • Bootstrap
 
-**Backend & Services:** Firebase • MongoDB • WordPress
+**Backend:** Node.js • Express.js • MongoDB • MySQL • Firebase • REST APIs
 
-**Deployment:** Netlify
+**Tools & Deployment:** Git • Figma • Miro • Postman • Vercel • Netlify
 
 ## GitHub Stats
 
