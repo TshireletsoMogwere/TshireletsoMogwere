@@ -1,10 +1,10 @@
 # Hi, I'm Tshireletso Mogwere 👋
 
-Software Engineer with a background in psychology, passionate about creating impactful, user-centered applications. I blend technology and human understanding to build innovative solutions that make a difference.
+Software Developerwith a background in psychology, passionate about building impactful, user-centered applications. I blend technology and human understanding to create innovative solutions that genuinely serve users.
 
 ## About Me
 
-I specialize in frontend and backend development, with experience contributing to projects like Kwamaimai Recipe Web Application and Reka Store. My unique background in psychology informs my approach to creating intuitive, accessible software that truly serves users' needs.
+I specialize in frontend and backend development, with experience building projects such as a Talent Management System, a Kanban Journal app, and an eCommerce store. My background in psychology guides my approach to crafting intuitive, accessible software that meets real user needs.
 
 ## Connect With Me
 
